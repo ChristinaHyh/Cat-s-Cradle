@@ -75,7 +75,11 @@
           success:function(result){
             $("#error").show();//成功和失败都会有提示信息, 共用 #error
             if(result.error){
+              if (result.error="Token 已经过期。"){
+                 $("#error").text("Token has expired");
+              }else{
               $("#error").text(result.error);
+              }
             }else{
               $("#error").text("Password reset successful");
             }
