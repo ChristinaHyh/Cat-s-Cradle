@@ -1,18 +1,17 @@
 <header class="g-header">
     
     <div class="g-logo">
-        {% case page.url %}
-        {% when '/tags' %}
-             <a href="https://hyahui.com{{page.url}}"></a>
-         {% when '/about' %}
-             <a href="https://hyahui.com{{page.url}}"></a>
-         {% else %}
-             {% if page.lang %}
-                 <a href="https://hyahui.com{{page.url}}"></a>
-              {% else %}
-                 <a href="https://hyahui.com"></a>
-             {% endif %}
-        {% endcase %}
+        {% if page.url == "/tags" %}
+            <a href="https://hyahui.com{{page.url}}"></a>
+        {% elsif page.url == "/about" %}
+            <a href="https://hyahui.com{{page.url}}"></a>
+        {% else %}
+            {% if page.lang %}
+                <a href="https://hyahui.com{{page.url}}"></a>
+            {% else %}
+                <a href="https://hyahui.com"></a>
+            {% endif %}
+        {% endif %}
     </div>
 
     <i id="menu-toggle" class="iconfont icon-menu"></i>
