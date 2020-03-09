@@ -5,9 +5,6 @@
     <meta name="author"  content="{{ site.author }}">
     <meta name="description" content="{{ site.description }}">
     <meta name="keywords"  content="{{ site.keyword }}">
-    {% if page.url == "/404.html" %}
-        <meta http-equiv="refresh" content="5; url=/">
-    {% endif %}
     <!-- Open Graph -->
     <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
     <meta property="og:type" content="website">
