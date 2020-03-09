@@ -23,7 +23,7 @@ What is [Browser-sync](https://www.browsersync.io/ )？
 
 Open the terminal and change directory to your working folder:
 
-<pre><code class="language-css">cd /Users/xhz1/Desktop/poi</code></pre>
+<pre><code class="language-css">cd /Users/Administrator/Desktop/Machine</code></pre>
 
 If Chrome is your default browser:
 <pre><code class="language-css">browser-sync start --server --files "stylesheets/*.css, *.html"</code></pre>     
@@ -36,4 +36,4 @@ Or not:
 
 <pre><code class="language-css">ctrl+c</code></pre>
 
- 
+ ![](/assets/img/browser-sync.png)
