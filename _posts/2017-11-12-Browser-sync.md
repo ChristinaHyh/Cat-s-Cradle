@@ -4,7 +4,7 @@ title: 'Using Browser-sync'
 date: 2017-11-12
 author: Christina
 lang: en
-tags: TOOLS
+tags: Tools
 ---
 
 ---
