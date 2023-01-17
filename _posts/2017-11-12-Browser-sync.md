@@ -3,6 +3,7 @@ layout: post
 title: 'Using Browser-sync'
 date: 2017-11-12
 author: Christina
+subtitle: Time-saving synchronised browser testing tool
 lang: en
 tags: Tools
 ---
