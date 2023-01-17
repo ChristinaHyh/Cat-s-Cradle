@@ -10,7 +10,7 @@ tags: Tiger-And-Rose
 
 ---
 
-Glad to have the opportunity to participate in the book sharing event for Mr. Tony S. Hsu's new book, *Chasing the Modern*. After reading, I was captivated by Mr. Hsu Chih-mo's writing and talents again. It reminded me of the date with poetry. I have been studying in Beijing for three years.  With a different feeling arose spontaneously, lots of thoughts sprang up. So I picked up my pen to write down.
+Glad to have the opportunity to participate in the book sharing event for Mr. Tony S. Hsu's new book, *Chasing the Modern*. After reading, I was captivated by Mr. Hsu Chih-mo's writing and talents again. It reminded me of the date with poetry. I have been studying in Beijing for three years. And with a different feeling arose spontaneously, lots of thoughts sprang up. So I picked up my pen to write them down.
 
 ---
 
@@ -31,11 +31,23 @@ In pursuit, in pursuit——<br><br>
 
 <br>
 
+<br>
+
+<br>
+
+<br>
+
 Habituating, habituating to the flickering campfire at night,<br><br>
 
 People gather round with hoarse tired expressions.<br><br>
 
 Frittering away, frittering away——<br><br>
+
+<br>
+
+<br>
+
+<br>
 
 <br>
 
