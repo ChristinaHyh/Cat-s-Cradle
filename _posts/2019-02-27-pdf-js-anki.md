@@ -23,7 +23,7 @@ Recently, I need to read lots of literature. Lacking of professional vocabulary,
 * Anki for Android (Download from APP store)
 * Online Dictionary Helper ([Address](https://chrome.google.com/webstore/detail/online-dictionary-helper/lppjdajkacanlmpbbcdkccjkdbpllajb?hl=zh-CN)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/dic.crx)) 
 * Anki-connect ([Address](https://github.com/FooSoft/anki-connect)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/ankiconnect.zip))
-* PDF.js([Address](https://mozilla.github.io/pdf.js/)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/pdfjs.zip))
+* PDF.js ([Address](https://mozilla.github.io/pdf.js/)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/pdfjs.zip))
 * Anki Card Template ([Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/anki.apkg))
 
 ### **Installation**
@@ -82,7 +82,7 @@ Unzip "pdfjs.zip". Open Google Chrome by typing "/pdfjs-2.0.943-dist/web/viewer.
 
 **7. Using ODH to look up words and making Anki card**
 
-Turn on ODH Extension and open any webpage, move your mouse cursor over the word that you want to select and translate. Click "+" to make an Anki card. You can browser these cards across multiple devices. To get the definition, click on the blank of the card.
+Turn on ODH Extension and open any pdf file by PDF.js, move your mouse cursor over the word that you want to select and translate. Click "+" to make an Anki card. You can browser these cards across multiple devices. To get the definition, click on the blank of the card.
        
 ![](/assets/img/k.png)
 
