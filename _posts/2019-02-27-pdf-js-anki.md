@@ -3,6 +3,7 @@ layout: post
 title: 'PDF.js+Chrome+Anki=Contextual Dictionary'
 date: 2019-02-27
 author: Christina
+lang: en
 tags: Tools
 subtitle: Learning specialty English joyfully
 
@@ -17,13 +18,13 @@ Recently, I need to read lots of literature. Lacking of professional vocabulary,
 
 ### **Tools**
 
-* Chrome ([Download Address](https://www.google.com/chrome/)丨[Download Directly](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/chrome.exe)) 
-* Anki PC Version ([Download Address](https://apps.ankiweb.net/)丨[Download Directly](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/anki-2.0.exe))
+* Chrome ([Address](https://www.google.com/chrome/)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/chrome.exe)) 
+* Anki PC Version ([Address](https://apps.ankiweb.net/)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/anki-2.0.exe))
 * Anki for Android (Download from APP store)
-* Online Dictionary Helper ([Download Address](https://chrome.google.com/webstore/detail/online-dictionary-helper/lppjdajkacanlmpbbcdkccjkdbpllajb?hl=zh-CN)丨[Download Directly](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/dic.crx) | [Github](https://github.com/ninja33/ODH)) 
-* Anki-connect ([Download Address](https://github.com/FooSoft/anki-connect)丨[Download Directly](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/ankiconnect.zip))
-* PDF.js([Download Address](https://mozilla.github.io/pdf.js/)丨[Download Directly](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/pdfjs.zip))
-* Anki Card Template ([Download Directly](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/anki.apkg))
+* Online Dictionary Helper ([Address](https://chrome.google.com/webstore/detail/online-dictionary-helper/lppjdajkacanlmpbbcdkccjkdbpllajb?hl=zh-CN)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/dic.crx)) 
+* Anki-connect ([Address](https://github.com/FooSoft/anki-connect)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/ankiconnect.zip))
+* PDF.js([Address](https://mozilla.github.io/pdf.js/)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/pdfjs.zip))
+* Anki Card Template ([Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/anki.apkg))
 
 ### **Installation**
 
@@ -63,7 +64,7 @@ Start Anki and log in your account. Click "Extension options" in ODH Extension.
       
 ![](/assets/img/f.png)
       
-Select AnkiConnect or AnkiWeb in "Servicec Options", you can also change the dictionary in the "Dictionary Options".
+Select AnkiConnect or AnkiWeb in "Services Options", you can also change the dictionary in the "Dictionary Options".
       
 The following is my configuration, you can set according to your personal preferences.
       
@@ -81,7 +82,7 @@ Unzip "pdfjs.zip". Open Google Chrome by typing "/pdfjs-2.0.943-dist/web/viewer.
 
 **7. Using ODH to look up words and making Anki card**
 
-Turn on ODH Extension and open any webpage, move your mouse cursor over the word that you want to select and translate. Click "+" to make an Anki card. You can broswer these cards across multiple devices. To get the definition, click on the blank of the card.
+Turn on ODH Extension and open any webpage, move your mouse cursor over the word that you want to select and translate. Click "+" to make an Anki card. You can browser these cards across multiple devices. To get the definition, click on the blank of the card.
        
 ![](/assets/img/k.png)
 
