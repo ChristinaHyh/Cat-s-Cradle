@@ -14,16 +14,16 @@ subtitle: Learning specialty English joyfully
 
 ### **Introduction**
 
-Recently, I need to read lots of literature. Lacking of professional vocabulary, I have to find some tools that can assist while won't be addicted. Focusing on solving this problem, I found a tool developed by [Zhenyu Huang](https://www.laohuang.net/20180213/online-dictionary-helper/) that can help look up words efficiently and build contextual dictionary synchronously. This post was written to introduce how to install and use this tool.
+Recently, I need to read lots of literature. Lacking of professional vocabulary, I have to find some tools that can assist while won't be addicted to. Focusing on solving this problem, I found a tool developed by [Zhenyu Huang](https://www.laohuang.net/20180213/online-dictionary-helper/) that can help look up words efficiently and build contextual dictionary synchronously. This post was written to introduce how to install and use this tool.
 
 ### **Tools**
 
-* Chrome ([Address](https://www.google.com/chrome/)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/chrome.exe)) 
-* Anki PC Version ([Address](https://apps.ankiweb.net/)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/anki-2.0.exe))
+* Chrome ([Link](https://www.google.com/chrome/)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/chrome.exe)) 
+* Anki PC Version ([Link](https://apps.ankiweb.net/)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/anki-2.0.exe))
 * Anki for Android (Download from APP store)
-* Online Dictionary Helper ([Address](https://chrome.google.com/webstore/detail/online-dictionary-helper/lppjdajkacanlmpbbcdkccjkdbpllajb?hl=zh-CN)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/dic.crx)) 
-* Anki-connect ([Address](https://github.com/FooSoft/anki-connect)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/ankiconnect.zip))
-* PDF.js ([Address](https://mozilla.github.io/pdf.js/)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/pdfjs.zip))
+* Online Dictionary Helper ([Link](https://chrome.google.com/webstore/detail/online-dictionary-helper/lppjdajkacanlmpbbcdkccjkdbpllajb?hl=zh-CN)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/dic.crx)) 
+* Anki-connect ([Link](https://github.com/FooSoft/anki-connect)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/ankiconnect.zip))
+* PDF.js ([Link](https://mozilla.github.io/pdf.js/)丨[Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/pdfjs.zip))
 * Anki Card Template ([Download](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/anki.apkg))
 
 ### **Installation**
@@ -96,11 +96,11 @@ Anki is a very powerful tool. If you are interested in other functions, just exp
 
 ### 2020-03-07 Updated
 
-After Feb. 2020, Anki (Windows) under 2.1 version cannot connect to Anki Web anymore. In this post, I used Anki 2.0 and corresponding AnkiConnect, which means it will meet some problems now. Hereby, I will show how to install AnkiConnect under the environment of Anki 2.1. For more details, you can read [Document](https://ankiweb.net/shared/info/2055492159).
+As of February 2020, Anki (Windows) versions lower than 2.1 are no longer able to connect to Anki Web. This guide will show you how to install AnkiConnect within the Anki 2.1 environment. It is important to note that if you are currently using Anki 2.0 and the corresponding AnkiConnect version, you may experience some compatibility issues. For more detailed instructions and information, please refer to the [Document](https://ankiweb.net/shared/info/2055492159).
 
-Anki 2.1 | [Download Address](https://apps.ankiweb.net/) | [Download Directly](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/anki-2.1.exe) 
+Anki 2.1 | [Download Link](https://apps.ankiweb.net/) | [Download Immediately](https://github.com/ChristinaHyh/ICE-9/releases/download/1.0/anki-2.1.exe) 
 
-Start Anki program and then click "Tools" → "Add-ons" → "Get Add-ons" and then input the code of `2055492159` in the Code bar. Click "ok" to install AnkiConnect. After installation, restart Anki.
+Start Anki program, click "Tools" → "Add-ons" → "Get Add-ons" and then input the code of `2055492159` in the Code bar. Click "ok" to install AnkiConnect. After installation, restart Anki.
 
 ![](/assets/img/2020-03-07_193146.png)
 
