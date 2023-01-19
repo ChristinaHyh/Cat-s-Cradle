@@ -9,23 +9,78 @@
 
 <url>
   <loc>https://en.hyahui.com/</loc>
-  <lastmod>2020-03-07T09:08:56+00:00</lastmod>
+  <lastmod>2023-01-19T04:28:13+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://en.hyahui.com/about/</loc>
-  <lastmod>2020-03-07T09:08:56+00:00</lastmod>
+  <loc>https://en.hyahui.com/about</loc>
+  <lastmod>2023-01-19T04:28:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://en.hyahui.com/tags/</loc>
-  <lastmod>2020-03-07T09:08:56+00:00</lastmod>
+  <loc>https://en.hyahui.com/tags</loc>
+  <lastmod>2023-01-19T04:28:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://en.hyahui.com/Pi/</loc>
-  <lastmod>2020-03-07T09:08:56+00:00</lastmod>
+  <loc>https://en.hyahui.com/pdf-js-anki</loc>
+  <lastmod>2023-01-18T16:09:42+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://en.hyahui.com/Paranoid</loc>
+  <lastmod>2023-01-18T16:09:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://en.hyahui.com/Lake-heart</loc>
+  <lastmod>2023-01-19T04:28:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://en.hyahui.com/page2/</loc>
+  <lastmod>2023-01-18T16:09:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://en.hyahui.com/Pi</loc>
+  <lastmod>2023-01-19T04:28:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://en.hyahui.com/chasing-the-modern</loc>
+  <lastmod>2023-01-17T16:25:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://en.hyahui.com/Moment</loc>
+  <lastmod>2023-01-17T16:25:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://en.hyahui.com/wo-yu-wi</loc>
+  <lastmod>2023-01-17T16:25:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://en.hyahui.com/hug</loc>
+  <lastmod>2021-10-12T06:51:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://en.hyahui.com/Browser-sync</loc>
+  <lastmod>2023-01-17T16:25:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://en.hyahui.com/BuildingCKS</loc>
+  <lastmod>2023-01-17T17:15:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://en.hyahui.com/page3/</loc>
+  <lastmod>2023-01-19T04:28:13+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
