@@ -32,7 +32,7 @@ Recently, I need to read lots of literature. Lacking of professional vocabulary,
 
 Considering the compatibility between Anki and AnkiConnect plug-in, I recommend installing Anki 2.0. You can download old version on the official website or download directly in this post.
 
-**2. Installing Oline Dictiionary Helper (Chrome Extension)**
+**2. Installing Online Dictionary Helper (Chrome Extension)**
 
 Click the Chrome menu icon and select Extensions from the Tools menu. Ensure that the "Developer mode" checkbox in the top right-hand corner is checked.
       
